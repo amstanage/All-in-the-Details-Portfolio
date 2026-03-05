@@ -1,0 +1,18 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserdata
+*.xcworkspace/xcuserdata/
+xcuserdata/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Photos - keep private, do not commit to repository
+Photos for App/
+All in the Details/Assets.xcassets/*.imageset/
+
+# Requirements doc
+*.docx
